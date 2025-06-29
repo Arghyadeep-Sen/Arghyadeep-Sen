@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=arghyadeep-sen&label=Profile%20views&color=0e75b6&style=flat" alt="arghyadeep-sen" />
 </p>
 
-- - 🌱 I’m currently learning **React, Node.js, MongoDB**
+- 🌱 I’m currently learning **React, Node.js, MongoDB**
 - 👨‍💻 Exploring **AI/ML** and **Data Science**
 - 📧 Reach me at: [arghyadeepsen7@gmail.com](mailto:arghyadeepsen7@gmail.com)
 - 🎮 Connect on Discord: **psyke.zip**
