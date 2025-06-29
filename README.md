@@ -1,35 +1,15 @@
-<h1 align="center">Hi 👋, I'm Arghyadeep Sen</h1>
-<h3 align="center">Turning coffee ☕ into code 💻 | Building smart things with data and the web</h3>
+### Hello World!  
+  ![](https://komarev.com/ghpvc/?username=arghyadeep-sen&label=Profile%20Visits&color=blue&style=for-the-badge)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arghyadeep-sen&label=Profile%20views&color=0e75b6&style=flat" alt="arghyadeep-sen" />
-</p>
-
-- 🌱 I’m currently learning **React, Node.js, MongoDB**
-- 👨‍💻 Exploring **AI/ML** and **Data Science**
-- 📧 Reach me at: [arghyadeepsen7@gmail.com](mailto:arghyadeepsen7@gmail.com)
-- 🎮 Connect on Discord: **psyke.zip**
-
-
----
-
-### 🔗 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/arghyadeep-sen-b992a632a/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Arghyadeep Sen" height="30" width="40" />
-  </a>
-  
-</p>
-
----
+  ---
+<img src="https://github.com/sciencepal/sciencepal/raw/master/assets/life_balance.gif" alt="life balance gif" align="right" width="200" height="auto"/>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 Aspiring AI/ML & Web Dev 🚀 trying to make sense of data, code, and life — mostly powered by Python and occasional panic 😅
 - 💻 My daily toolkit: **Python**, **C**, **HTML**, **CSS**, **JavaScript**
 - 💬 Talk to me about AI models, ML madness, CSS crying sessions, or why semicolons don’t exist in Python (but my anxiety does).
 - 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Bananas are berries. Strawberries aren’t.
+- ⚡ Fun fact: I once tried to center a div… and almost centered my existence.
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
@@ -42,6 +22,14 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="55" height="55"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="55" height="55"/>
 </p>
+
+---
+
+### 🔗 Connect with me
+
+[<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/dCfjjRdY) &nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/arghyadeep-sen-b992a632a/) &nbsp; 
+[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:arghyadeepsen7@gmail.com)
 
 ---
 
