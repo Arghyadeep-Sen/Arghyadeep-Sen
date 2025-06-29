@@ -6,15 +6,20 @@
 </p>
 
 - 🌱 I’m currently learning **React, Node.js, MongoDB**
+- 👨‍💻 Exploring **AI/ML** and **Data Science**
 
 ---
 
 ### 🔗 Connect with me
 
 <p align="left">
+  <a href="mailto:arghyadeepsen7@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail - arghyadeepsen7@gmail.com" />
+  </a>
   <a href="https://www.linkedin.com/in/arghyadeep-sen-b992a632a/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Arghyadeep Sen" height="30" width="40" />
   </a>
+  
 </p>
 
 ---
@@ -66,14 +71,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arghyadeep-sen&" alt="GitHub Streak" />
 </div>
 
----
-
-### 🟡 Pacman-Style Contribution Graph
-
-📌 *Fun fact: This Pacman graph is generated from my GitHub contribution activity!*
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arghyadeep-Sen/Arghyadeep-Sen/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arghyadeep-Sen/Arghyadeep-Sen/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Arghyadeep-Sen/Arghyadeep-Sen/output/pacman-contribution-graph.svg">
-</picture>
