@@ -4,10 +4,11 @@
 
   ---
 
-<img src="https://github.com/sciencepal/sciencepal/raw/master/assets/life_balance.gif" alt="life balance gif" align="right" width="30%" height="auto"/> 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 Aspiring AI/ML & Web Dev 🚀 decoding life with Python and panic;
+  <img src="https://github.com/sciencepal/sciencepal/raw/master/assets/life_balance.gif" alt="life balance gif" align="right" width="30%" height="auto"/> 
+
 - 💻 Daily weapons: **Python**, **C**, **HTML**, **CSS**, **JavaScript**;
 - 🌱 Learning React & ML frameworks — from divs to datasets;
 - 🤔 I’m looking for help with Design Pattern 😭;
