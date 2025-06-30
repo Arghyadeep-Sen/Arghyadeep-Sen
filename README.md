@@ -18,14 +18,14 @@
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="55" height="55"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="55" height="55"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="5%" height="auto"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="5%" height="auto"/> 
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="4%" height="auto"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="5%" height="auto"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="5%" height="auto"/>
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="5%" height="auto"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="5%" height="auto"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="5%" height="auto"/>
 </p>
 
 ---
@@ -34,16 +34,16 @@
 
 <p align="center">
   <a href="https://discord.gg/dCfjjRdY">
-    <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="48" height="48" />
+    <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="4.5%" height="auto" />
   </a> &nbsp;
   <a href="https://www.linkedin.com/in/arghyadeep-sen-b992a632a/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="55" height="55" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%" height="auto" />
   </a> &nbsp;
   <a href="mailto:arghyadeepsen7@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="55" height="55" />
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%" height="auto" />
   </a> &nbsp;
-  <a href="https://t.me/mojo">
-    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="55" height="55" />
+  <a href="https://t.me/arghyadeep_sen">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="5%" height="auto" />
   </a>
 </p>
 
