@@ -33,15 +33,19 @@
 ### 🔗 Find me here
 
 <p align="center">
+ <a href="https://github.com/Arghyadeep-Sen">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
   <a href="https://discord.gg/dCfjjRdY">
-    <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="4.5%" height="auto" />
-  </a> &nbsp;
+    <img src="https://cdn.simpleicons.org/discord" width="4.5%" height="auto" />
+  </a> 
   <a href="https://www.linkedin.com/in/arghyadeep-sen-b992a632a/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%" height="auto" />
-  </a> &nbsp;
+  </a> 
   <a href="mailto:arghyadeepsen7@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%" height="auto" />
-  </a> &nbsp;
+  </a> 
   <a href="https://t.me/arghyadeep_sen">
     <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="5%" height="auto" />
   </a>
