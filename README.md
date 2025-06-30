@@ -13,6 +13,7 @@
 - 🌱 Learning React & ML frameworks — from divs to datasets;
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
+- 🐧 Exploring Linux — **Arch** btw 😂
 - 👯 Down for some brainy Chess battles ♟;
 - ⚡ Fun fact: Tried to center a div… and almost centered my existence;
 - 🧑‍💻 Tech I work on :
