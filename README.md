@@ -27,10 +27,21 @@
 
 ### 🔗 Find me here
 
-[<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/dCfjjRdY) &nbsp; 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/arghyadeep-sen-b992a632a/) &nbsp; 
-[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:arghyadeepsen7@gmail.com) &nbsp;
-[<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="3.5%"/>](https://t.me/mojo)
+<p align="center">
+  <a href="https://discord.gg/dCfjjRdY">
+    <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="48" height="48" />
+  </a> &nbsp;
+  <a href="https://www.linkedin.com/in/arghyadeep-sen-b992a632a/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="55" height="55" />
+  </a> &nbsp;
+  <a href="mailto:arghyadeepsen7@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="55" height="55" />
+  </a> &nbsp;
+  <a href="https://t.me/mojo">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="55" height="55" />
+  </a>
+</p>
+
 
 ---
 
@@ -61,3 +72,18 @@
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, Refresh again to view the Card" width = '11000' />
+
+---
+
+### 🌀 Code Cycle:<br>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+
+
+<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+
+</div>
