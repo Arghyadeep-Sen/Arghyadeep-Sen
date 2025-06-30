@@ -4,14 +4,15 @@
 
   ---
 
-<img src="https://github.com/sciencepal/sciencepal/raw/master/assets/life_balance.gif" alt="life balance gif" align="right" width="27%" height="auto"/> 
+<img src="https://github.com/sciencepal/sciencepal/raw/master/assets/life_balance.gif" alt="life balance gif" align="right" width="30%" height="auto"/> 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 Aspiring AI/ML & Web Dev 🚀 decoding life with Python and panic;
 - 💻 Daily weapons: **Python**, **C**, **HTML**, **CSS**, **JavaScript**;
 - 🌱 Learning React & ML frameworks — from divs to datasets;
 - 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;- 👯 Down for some brainy Chess battles ♟;
+- 💬 Ask me about anything, I am happy to help;
+- 👯 Down for some brainy Chess battles ♟;
 - ⚡ Fun fact: Tried to center a div… and almost centered my existence;
 - 🧑‍💻 Tech I work on :
 
