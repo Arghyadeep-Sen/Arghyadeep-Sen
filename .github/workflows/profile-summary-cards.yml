@@ -2,16 +2,17 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * 0"  # Runs every Sunday at midnight
+    - cron: "0 0 * * 0"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate GitHub profile summary cards
     steps:
       - uses: actions/checkout@v3
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: Arghyadeep-Sen
-          THEME: nord_dark
+          BRANCH_NAME: master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_CARD_TOKEN }}
