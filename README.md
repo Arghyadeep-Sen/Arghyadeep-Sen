@@ -37,7 +37,7 @@
  <a href="https://github.com/Arghyadeep-Sen">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
+      <img alt="GitHub" title="GitHub" height="auto" width="4.5%" src="https://cdn.simpleicons.org/github"></picture></a>
   
  <a href="https://discord.gg/dCfjjRdY">
    <picture>
