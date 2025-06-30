@@ -1,13 +1,14 @@
 # Hello World! 👋
 
- ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+<!-- ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png) -->
+![](https://github.com/Arghyadeep-Sen/Arghyadeep-Sen/blob/main/banner.png)
 
   ---
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 Aspiring AI/ML & Web Dev 🚀 decoding life with Python and panic;
-  <img src="https://github.com/sciencepal/sciencepal/raw/master/assets/life_balance.gif" alt="life balance gif" align="right" width="30%" height="auto"/> 
+  <img src="https://github.com/sciencepal/sciencepal/raw/master/assets/life_balance.gif" alt="life balance gif" align="right" width="35%" height="auto"/> 
 
 - 💻 Daily weapons: **Python**, **C**, **HTML**, **CSS**, **JavaScript**;
 - 🌱 Learning React & ML frameworks — from divs to datasets;
@@ -80,13 +81,12 @@
   </a>
 
   <div style="display: flex; align-items: center; width: 45%; gap: 10px;">
-    <a href="https://git.io/streak-stats">
+   <picture> 
+   <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=arghyadeep-sen&theme=dark" width="49%"  />
     </a>
-   
-   <picture>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
    </picture>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%"/>
    </div>
 </div>
 
