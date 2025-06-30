@@ -83,9 +83,11 @@
     <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=arghyadeep-sen&theme=dark" width="49%"  />
     </a>
+   
+   <picture>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
-  </div>
-
+   </picture>
+   </div>
 </div>
 
 ---
