@@ -1,5 +1,5 @@
-### Hello World!  
-  ![](https://komarev.com/ghpvc/?username=arghyadeep-sen&label=Profile%20Visits&color=blue&style=for-the-badge)
+# Hello World! 👋
+ ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
   ---
 <img src="https://github.com/sciencepal/sciencepal/raw/master/assets/life_balance.gif" alt="life balance gif" align="right" width="200" height="auto"/>
@@ -83,6 +83,5 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
 
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
-
+ ![](https://komarev.com/ghpvc/?username=arghyadeep-sen&label=Profile%20Visits&color=blue&style=for-the-badge)
 </div>
