@@ -1,15 +1,20 @@
 # Hello World! 👋
+
  ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
   ---
+
+&nbsp;  
 <img src="https://github.com/sciencepal/sciencepal/raw/master/assets/life_balance.gif" alt="life balance gif" align="right" width="200" height="auto"/>
 
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 Aspiring AI/ML & Web Dev 🚀 trying to make sense of data, code, and life — mostly powered by Python and occasional panic 😅
-- 💻 My daily toolkit: **Python**, **C**, **HTML**, **CSS**, **JavaScript**
-- 💬 Talk to me about AI models, ML madness, CSS crying sessions, or why semicolons don’t exist in Python (but my anxiety does).
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: I once tried to center a div… and almost centered my existence.
+- 🏦 Aspiring AI/ML & Web Dev 🚀 decoding life with Python and panic;
+- 💻 Daily weapons: **Python**, **C**, **HTML**, **CSS**, **JavaScript**;
+- 🌱 Learning React & ML frameworks — from divs to datasets;
+- 🤔 I’m looking for help with Design Pattern 😭;
+- 💬 Ask me about anything, I am happy to help;- 👯 Down for some brainy Chess battles ♟;
+- ⚡ Fun fact: Tried to center a div… and almost centered my existence;
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
