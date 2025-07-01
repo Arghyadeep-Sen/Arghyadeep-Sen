@@ -17,6 +17,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
 
+      - name: Ensure dist folder exists
+        run: mkdir -p dist
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
