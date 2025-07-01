@@ -109,5 +109,14 @@
 
 &nbsp;  
 
- ![](https://komarev.com/ghpvc/?username=arghyadeep-sen&label=Profile%20Visits&color=blue&style=for-the-badge)
 </div>
+
+---
+
+### ⭐️ Star this [repo](https://github.com/Arghyadeep-Sen/Arghyadeep-Sen) if you like it!
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=arghyadeep-sen&label=Profile%20Visits&color=blue&style=for-the-badge" alt="profile-views" />
+</p>
+
+
