@@ -1,4 +1,4 @@
-# Hello World! 👋
+# Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <!-- ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png) -->
 ![](https://github.com/Arghyadeep-Sen/Arghyadeep-Sen/blob/main/banner.png)
