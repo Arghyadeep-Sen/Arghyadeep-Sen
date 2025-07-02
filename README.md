@@ -6,15 +6,15 @@
   ---
 
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="55" /> About Me:
 - 🏦 Aspiring AI/ML & Web Dev 🚀 decoding life with Python and panic;
   <img src="https://github.com/sciencepal/sciencepal/raw/master/assets/life_balance.gif" alt="life balance gif" align="right" width="35%" height="auto"/> 
 
 - 💻 Daily weapons: **Python**, **C**, **HTML**, **CSS**, **JavaScript**;
-- 🌱 Learning React & ML frameworks — from divs to datasets;
+- 🌱 Learning React & ML frameworks;
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
-- 🐧 Exploring Linux — **Arch** btw 😂
+- 🐧 Exploring Linux — **Arch** btw 😂;
 - 👯 Down for some brainy Chess battles ♟;
 - ⚡ Fun fact: Tried to center a div… and almost centered my existence;
 - 🧑‍💻 Tech I work on :
@@ -32,7 +32,7 @@
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="45" height="35"  /> Find me here
+### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="35" /> Find me here
 
 <p align="center">
  <a href="https://github.com/Arghyadeep-Sen">
@@ -70,7 +70,7 @@
 ---
 
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='30' /> My Github Stats:
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='35' /> My Github Stats:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
 
