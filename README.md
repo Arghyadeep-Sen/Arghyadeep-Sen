@@ -7,7 +7,7 @@
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="55" /> About Me:
-- 🏦 Aspiring AI/ML & Web Dev 🚀 decoding life with Python and panic;
+- 🏦 Aspiring AI/ML & Web Dev 🚀;
   <img src="https://github.com/sciencepal/sciencepal/raw/master/assets/life_balance.gif" alt="life balance gif" align="right" width="35%" height="auto"/> 
 
 - 💻 Daily weapons: **Python**, **C**, **HTML**, **CSS**, **JavaScript**;
