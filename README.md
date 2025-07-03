@@ -75,7 +75,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=arghyadeep-sen&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" width="49%" />
-  
+ <!-- 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghyadeep-sen&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php" width="49%" />
   </a>
@@ -84,7 +84,7 @@
    <picture> 
    <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=arghyadeep-sen&theme=dark" width="49%"  />
-    </a>
+    </a>-->
    </picture>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%"/>
    </div>
